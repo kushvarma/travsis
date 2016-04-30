@@ -1,0 +1,48 @@
+********************************************************************************
+PACKAGE-LOG: 2016-01-16 02:58:54
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.34
+WORDPRESS:	4.2.4
+PHP INFO:	5.4.45 | SAPI: cgi-fcgi
+SERVER:		Apache Phusion_Passenger/4.0.10 mod_bwlimited/1.4 mod_fcgid/2.3.9 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (512M default) 
+MEMORY STACK: 43.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:68 | filtered:0 | create:68 
+FILTERED: [] 
+SQL CREATED: 20150810_travsis_5699b083592032948160116025251_database.sql 
+file size:7792315 
+SQL FILE SIZE: 7.43MB 
+SQL FILE TIME: 2016-01-16 02:59:08 
+SQL RUNTIME: 13.68 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home/travsllk/public_html 
+ARCHIVE FILE: 20150810_travsis_5699b083592032948160116025251_archive.zip 
+FILTERS: *ON* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	694.9MB 
+STATS:	Dirs 1,161 | Files 11,040 
+SQL ADDED: 20150810_travsis_5699b083592032948160116025251_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 12201
+    [filename] => /home/travsllk/public_html/wp-snapshots/tmp/20150810_travsis_5699b083592032948160116025251_archive.zip
+    [comment] => 
+)
+ 

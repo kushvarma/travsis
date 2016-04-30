@@ -1,0 +1,12 @@
+Please overwrite your existing wp-content/plugins/userpro/ with the latest userpro folder or package
+downloaded from the customer portal. You can do this via FTP or by uninstalling and reinstalling the plugin (not settings are lost!)
+
+Support is provided via our public community and support forums here:
+
+http://wpuserpro.com/userpro/forums/
+
+Please create a free account and post your questions if you have any.
+
+If you want to get the latest available code nad updated version please download directly from this link:
+
+http://wpuserpro.com/userpro/customer_portal/

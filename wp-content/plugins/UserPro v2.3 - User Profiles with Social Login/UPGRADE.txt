@@ -1,0 +1,3 @@
+To upgrade your UserPro plugin, overwrite the existing userpro folder in your /wp-content/plugins/ directory.
+
+Please do not remove or overwrite the uploads folder as this contains your user custom pictures and uploads.
